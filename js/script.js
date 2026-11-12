@@ -1,4 +1,4 @@
-// Selecionar
+
 const total = document.querySelector("#total");
 const botaoSomar = document.querySelector("#somar");
 const botaoZerar = document.querySelector("#zerar");
